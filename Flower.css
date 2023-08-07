@@ -1,0 +1,337 @@
+.pera1{
+    color: rgba(15, 15, 15, 0.6);
+font-family: Lato;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+width: 634px;
+color: #272727;
+padding: 5px
+
+}
+.btn{
+    color:#FFFEC4
+font-family: Lato;
+font-size: 25px;
+font-style::shadow;
+font-weight: 700;
+line-height: normal; 
+width: auto 91px;
+height: auto 24px;
+color: dark pink;
+background-color:#FFFF;
+padding: 20px;
+border-radius: 15px;
+border: none;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: rgb(241, 26, 123);
+}
+
+.page1{
+    display: flex;
+    background-color: #C4DFDF;
+    padding: 20px;
+    margin: 0px;
+
+}
+.heading{
+    color: #272727;
+  font-family: Lato;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  margin: 20px;
+  padding: 10px;
+  font-weight: bold;
+}
+.feature{
+   width: fixed 392px; 
+   height:fixed 48px ;
+   color: #272727;
+   text-align: center;
+   font-family: Lato;
+   font-size: 40px;
+   font-style: normal;
+   font-weight: 800;
+   line-height: normal;
+}
+.pera2{
+    width:fixed 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+   height: fixed 60px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+}
+.flowers{
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    width: fit-content;
+    margin: 0 auto;
+    gap: 100px;
+    
+}
+.flower1{
+    background-color: brown;
+    width:fixed 464px;
+    height: fixed 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    align-items: center;
+    justify-content: center;
+    padding: 2px;
+}
+.flower1 > img{
+    padding: 35px;
+}
+.flower2{
+    width:fixed 464px;
+    height: fixed 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    align-items: center;
+    justify-content: center;
+    padding: 2px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.flower2 img{
+    padding: 35px;
+   
+}
+.flower3{
+    width:fixed 464px;
+    height: fixed 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    align-items: center;
+    justify-content: center;
+    padding: 2px; 
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.flower3 img{
+    padding: 35px;
+    padding-bottom: 0%;
+}
+.flower-titel{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px; /* 145.833% */
+    text-decoration-line: underline;
+    padding: 0%;
+    margin: 0%;
+    height: fixed 35px;
+    width: fixed 181px;
+}
+.logo{
+    display:flex;
+    width: 1440px;
+    height: 320px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+
+}
+.logo1{
+    width: 88px;
+    height: 88px;
+    flex-shrink: 0;
+}
+.logo2{
+    display: flex;
+    justify-content: center;
+    padding: 70px;
+    margin: 0px;
+}
+.next{
+    font-size: 20px;
+    color: lightcoral;
+    padding: 20px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    list-style: none;
+    width: fit-content;
+    margin: 0% auto;
+    align-items: center;
+    text-align: center;
+}
+.sec3{
+   
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    text-align: justify;
+    gap: 300px; 
+    padding: 20px; 
+    padding-left: 120px;  
+}
+
+.flower4{
+width: 318px;
+height: 420px;
+flex-shrink: 0;
+background: url(<path-to-image>)
+}
+.pera3{
+    width: 594px;
+    height: 60px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    
+}
+.signup{
+       display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.h1pera{
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+}
+.Deal{
+    color: black;
+    font-size: 50px;
+}
+.flowerbox{
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    margin:0% auto;
+    width: fit-content;
+    gap: 20px;
+}
+.pera4{
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+}
+.insta{
+    text-align: center;
+    font-size:40px;
+    
+}
+.last{
+    background-image: url(./Rectangle\ 9.png);
+    width: 1440px;
+    height: 449px;
+    flex-shrink: 0;
+    margin: 0 auto;
+
+}
+.go{
+    text-align: center;
+}
+.get{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-top: 50px;
+padding: 100px;
+}
+.pera5{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.bar{
+    width: 700px;
+height: 64px;
+flex-shrink: 0;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.sub{
+    width: 150px;
+    height: 64px;
+    flex-shrink: 0; 
+    border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.lsec{
+    flex-shrink: 0;
+    background: #111010;
+    margin: 0 auto;
+    padding: 5px;
+    margin-top: 60px;
+}
+.lshop{
+    color: #E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-align: center;
+}
+.pera6{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+}
+.pera7{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
